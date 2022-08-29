@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/940f21be8d8863b6c70ae.jpg">
+  <img src="https://telegra.ph/file/f5ee4441593e440f2aade.jpg">
 </p>
 
 👩‍💻 Ayiin-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
@@ -67,11 +67,11 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 </details>
 
-<details>
+<detailsx`
 <summary><b>🔗 Deploy To Heroku</b></summary>
 <br>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/AyiinXd/DeployAyiin"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/kennnhl28/Ayiin-Userbot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
 
 </details>
 
