@@ -134,11 +134,11 @@ async def _(event):
 async def _(ayiin):
     await ayiin.edit("`\n(\\_/)`"
                      "`\n(●_●)`"
-                     "`\n />💖 *Ini Buat Kamu`")
+                     "`\n />💖 *Ini Buat Lu`")
     sleep(2)
     await ayiin.edit("`\n(\\_/)`"
                      "`\n(●_●)`"
-                     "`\n💖<\\  *Tapi Bo'ong Hiyahiyahiya`")
+                     "`\n💖<\\  *Mau Aje Gua Boongin`")
 
 
 @bot.on(events.NewMessage(pattern=r"\.$(.*)", outgoing=True))
