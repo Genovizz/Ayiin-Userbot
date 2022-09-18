@@ -47,15 +47,15 @@ async def koc(e):
 async def _(event):
     aa = await edit_or_reply(event, "`\n(\\_/)`"
                              "`\n(●_●)`"
-                             "`\n />❤️ **Ini Buat Kamu**`")
+                             "`\n />🖕 **Ini Buat Lo Ngentot**`")
     sleep(3)
     await aa.edit("`\n(\\_/)`"
                   "`\n(●_●)`"
-                  "`\n/>💔  **Aku Ambil Lagi**`")
+                  "`\n/>🖕  **Gue Ambil Lagi**`")
     sleep(2)
     await aa.edit("`\n(\\_/)`"
                   "`\n(●_●)`"
-                  "`\n💔<\\  **Terimakasih**`")
+                  "`\n🖕<\\  **Terimakasih Anjing**`")
 
 
 @bot.on(events.NewMessage(pattern=r"\.$(.*)", outgoing=True))
