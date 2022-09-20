@@ -399,15 +399,15 @@ async def _(event):
 async def _(event):
     typew = await edit_or_reply(event, "`Terkadang`")
     sleep(1)
-    await typew.edit("`Mencintai Seseorang`")
+    await typew.edit("`Mencintai Seseorang Itu tai`")
     sleep(1)
-    await typew.edit("`Hanya Akan Membuang Waktumu`")
+    await typew.edit("`Hanya Akan Membuang Waktu lo Goblok`")
     sleep(1)
-    await typew.edit("`Ketika Waktumu Habis`")
+    await typew.edit("`Ketika Waktu Lo Habis`")
     sleep(1)
-    await typew.edit("`Tambah Aja 5000`")
+    await typew.edit("`Sewa Lagi Lah`")
     sleep(1)
-    await typew.edit("`Bercanda`")
+    await typew.edit("`Bercanda Ye Ngentot`")
 
 
 # Create by myself @localheart
